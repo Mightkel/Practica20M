@@ -5,3 +5,13 @@
 //3. Mostrar los 3 primeros lugares
 //4. Mostrar las notas en orden descendente
 //5. Salir
+
+int [] notas = new int [25];
+
+//Agregar
+
+//Mostrar
+
+//3 primeros lugares
+
+//Mostrar descendente
