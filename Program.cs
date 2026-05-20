@@ -9,7 +9,24 @@
 int [] notas = new int [25];
 
 //Agregar
-
+Console.ForegroundColor=ConsoleColor.DarkBlue;
+Console.WriteLine("Ingrese las notas de los 25 estudiantes:");
+Console.ResetColor();
+for (int i = 0; i < 25; i++)
+{
+    try
+    {
+        Console.Write($"Nota #{i+1}: ");
+        notas[i] = int.Parse(Console.ReadLine()!);
+    }
+    catch(FormatException)
+    {
+        Console.ForegroundColor=ConsoleColor.DarkRed;
+        Console.WriteLine("Valor invalido. Por favor ingrese un numero entero.");
+        Console.ResetColor();
+        i--;
+    }
+}
 //Mostrar
 
 //3 primeros lugares
