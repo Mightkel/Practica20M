@@ -13,5 +13,12 @@ int [] notas = new int [25];
 //Mostrar
 
 //3 primeros lugares
+Array.Sort(notas[]);
+Array.Reverse(notas[]);
+
+Console.WriteLine("========= NOTAS TOP 3 ========")
+for(int i = 0; i < 3; i++){
+    Console.WriteLine($"{i+1}. {notas[i]}");
+}
 
 //Mostrar descendente
