@@ -37,11 +37,12 @@ Console.ResetColor();
 for (int i = 0; i < 25; i++)
 {
     Console.ForegroundColor = ConsoleColor.Blue;
-    Console.WriteLine($"Nota {i + 1}: {notas[i]}");
-    Console.ResetColor();
+    Console.Write($"Nota {i + 1}: ");
     if (notas[i] < 70) Console.ForegroundColor = ConsoleColor.Red;
     else Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine(notas[i]);
     Console.ResetColor();
+
 }
 
 //3 primeros lugares
