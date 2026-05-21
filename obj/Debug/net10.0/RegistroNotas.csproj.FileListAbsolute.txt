@@ -1,0 +1,15 @@
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\bin\Debug\net10.0\RegistroNotas.exe
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\bin\Debug\net10.0\RegistroNotas.deps.json
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\bin\Debug\net10.0\RegistroNotas.runtimeconfig.json
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\bin\Debug\net10.0\RegistroNotas.dll
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\bin\Debug\net10.0\RegistroNotas.pdb
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\RegistroNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\RegistroNotas.AssemblyInfoInputs.cache
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\RegistroNotas.AssemblyInfo.cs
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\RegistroNotas.csproj.CoreCompileInputs.cache
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\RegistroNotas.sourcelink.json
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\RegistroNotas.dll
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\refint\RegistroNotas.dll
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\RegistroNotas.pdb
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\RegistroNotas.genruntimeconfig.cache
+C:\Users\karid\OneDrive\Desktop\PRACTICA20M\Practica20M\obj\Debug\net10.0\ref\RegistroNotas.dll

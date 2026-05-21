@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mayke\\.nuget\\packages\\": {}
+    "C:\\Users\\karid\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mayke\\Desktop\\Practica20M\\RegistroNotas\\RegistroNotas.csproj",
+      "projectUniqueName": "C:\\Users\\karid\\OneDrive\\Desktop\\PRACTICA20M\\Practica20M\\RegistroNotas.csproj",
       "projectName": "RegistroNotas",
-      "projectPath": "C:\\Users\\mayke\\Desktop\\Practica20M\\RegistroNotas\\RegistroNotas.csproj",
-      "packagesPath": "C:\\Users\\mayke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mayke\\Desktop\\Practica20M\\RegistroNotas\\obj\\",
+      "projectPath": "C:\\Users\\karid\\OneDrive\\Desktop\\PRACTICA20M\\Practica20M\\RegistroNotas.csproj",
+      "packagesPath": "C:\\Users\\karid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karid\\OneDrive\\Desktop\\PRACTICA20M\\Practica20M\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mayke\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\karid\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

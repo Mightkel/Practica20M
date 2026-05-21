@@ -33,5 +33,24 @@ for (int i = 0; i < 25; i++)
 }
 
 //3 primeros lugares
+Array.Sort(notas[]);
+Array.Reverse(notas[]);
 
+Console.WriteLine("========= NOTAS TOP 3 ========")
+for (int i = 0; i < 3; i++)
+{
+    Console.WriteLine($"{i + 1}. {notas[i]}");
+}
 //Mostrar descendente
+
+Console.ForegroundColor = ConsoleColor.Magenta;
+Console.WriteLine("=== NOTAS ===");
+Console.ResetColor();
+for (int i = 0; i < 25; i++)
+{
+    Array.Sort(notas[]);
+    Array.Reverse(notas[]);
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine($"Nota {i + 1}: {notas[i]}");
+    Console.ResetColor();
+}
